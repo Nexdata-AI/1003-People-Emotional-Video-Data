@@ -1,8 +1,10 @@
 # 1003-People-Emotional-Video-Data
-https://www.datatang.ai/datasets/977
+
 
 ## Description
 1,003 People - Emotional Video Data. The data diversity includes multiple races, multiple indoor scenes, multiple age groups, multiple languages, multiple emotions (11 types of facial emotions, 15 types of inner emotions). For each sentence in each video, emotion types (including facial emotions and inner emotions), start & end time, and text transcription were annotated.This dataset can be used for tasks such as emotion recognition and sentiment analysis.
+
+For more details, please refer to the link: https://bit.ly/3UANjMC
 
 ## Data size
 1,003 people, each person has one or several videos with multiple emotions
@@ -27,3 +29,6 @@ for each sentence in each video, emotion types (including facial emotions and in
 
 ## Accuracy
 collecting accuracy: according to the 'collecting requirement', the collecting accuracy is over 97%; label annotation accuracy: the accuracy of language, race, gender and age group labeling is over 97%; file annotation accuracy: the accuracy of text transcription is over 85%;
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
