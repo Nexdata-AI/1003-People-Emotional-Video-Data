@@ -4,7 +4,8 @@
 ## Description
 1,003 People - Emotional Video Data. The data diversity includes multiple races, multiple indoor scenes, multiple age groups, multiple languages, multiple emotions (11 types of facial emotions, 15 types of inner emotions). For each sentence in each video, emotion types (including facial emotions and inner emotions), start & end time, and text transcription were annotated.This dataset can be used for tasks such as emotion recognition and sentiment analysis.
 
-For more details, please refer to the link: https://bit.ly/3UANjMC
+For more details, please refer to the link: https://www.nexdata.ai/datasets/977?source=Github
+
 
 ## Data size
 1,003 people, each person has one or several videos with multiple emotions
