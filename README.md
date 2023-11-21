@@ -32,4 +32,4 @@ for each sentence in each video, emotion types (including facial emotions and in
 collecting accuracy: according to the 'collecting requirement', the collecting accuracy is over 97%; label annotation accuracy: the accuracy of language, race, gender and age group labeling is over 97%; file annotation accuracy: the accuracy of text transcription is over 85%;
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
